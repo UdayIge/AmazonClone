@@ -13,6 +13,8 @@
     display: flex;
     align-items: center;
 }
+
+/* Box 1 */
 .nav-logo{
     height: 50px;
     width: 120px;
@@ -35,6 +37,8 @@
 .border:hover{
     border: 1px solid white;
 }
+
+/*** Box 2 ***/
 .nav-address{
     height: 50px;
     padding: .7rem 1rem;
@@ -60,18 +64,23 @@
 
 }
 .search{
-    background-color: #F3A847;
+    background-color: #f0ac54;
     height: 2.5rem;
     width: 38rem;
+    margin: 0 .4rem;
     display: flex;
     align-items: center;
     justify-content:space-between;
     border-radius: 5px;
 
 }
+.search:hover{
+    background-color: #F3A847;
+}
 #select{
     border: none;
     height: 100%;
+    text-align: center;
     background-color: #e6e6e6;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
