@@ -10,17 +10,22 @@
     height: 60px;
     background-color: #0f1111;
     color: white;
+    display: flex;
+    align-items: center;
 }
 .nav-logo{
-    height: 56px;
+    height: 50px;
     width: 120px;
-   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
 .logo{
     background-image: url("./Assets/amazon_logo.png");
     background-size:cover;
-    height: 100%;
+    height: 125%;
     width: 100%;
 }
 .border{
@@ -29,4 +34,63 @@
 }
 .border:hover{
     border: 1px solid white;
+}
+.nav-address{
+    height: 50px;
+    padding: .7rem 1rem;
+    /* border: 1px solid  transparent; */
+    /* background-color: aliceblue; */
+
+}
+.nav-address p{
+    color: #cccccc;
+    font-size: 0.75rem;
+    margin-left: 18px;
+    
+}
+.add-loc{
+    display: flex;
+}
+.add-loc i{
+    margin-right: 5px;
+}
+.add-loc h4{
+    font-size: .9rem;
+    display: flex;
+
+}
+.search{
+    background-color: #F3A847;
+    height: 2.5rem;
+    width: 38rem;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    border-radius: 5px;
+
+}
+#select{
+    border: none;
+    height: 100%;
+    background-color: #e6e6e6;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.search input{
+    border: none;
+    font-size: .95rem;
+    padding: .4rem;
+    height: 100%;
+    width: 100%;
+
+}
+.search-icon{
+    width: 3.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search-icon i{
+    color: #0f1111;
+    font-size: 1.4rem;
 }
