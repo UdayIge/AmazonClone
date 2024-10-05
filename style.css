@@ -289,7 +289,7 @@
 }
 .box-fill img{
     object-fit: cover;
-    width: 230px;
+    /* height: 80%; */
 }
 .box-fill h4{
     display: inline;
