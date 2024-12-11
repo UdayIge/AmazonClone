@@ -3,7 +3,7 @@
 
 <be>
 
-#### project link : [Click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
+#### project link : [Click here](https://udayige.github.io/AmazonClone/)
 
 <br>
 <i>Author: <b>Uday Ige</b></i>
