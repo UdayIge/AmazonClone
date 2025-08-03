@@ -1,5 +1,8 @@
-# AmazonClone
-It is Fronted hero section clone of amazon.in create using basic HTML ,CSS
-<br>
-<b>Author: Uday Ige<b>
+# **AmazonClone**
+<p>It is a Fronted hero section clone of Amazon.in create using basic HTML and CSS.</p>
 
+#### project link : [Click here](https://udayige.github.io/AmazonClone/)
+
+
+<br>
+<i>Author: <b>Uday Ige</b></i>
